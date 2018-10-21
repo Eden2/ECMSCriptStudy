@@ -17,6 +17,7 @@ ECMAScript是Javascript的规范，JavaScript是ECMAScript语言的方言，Java
 	•	number - 如果变量是 Number 类型的
 	•	string - 如果变量是 String 类型的
 	•	object - 如果变量是一种引用类型或 Null 类型的
+    
 	
 下面的代码段测试该变量的值是否等于 undefined：
 ```
